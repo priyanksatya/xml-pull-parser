@@ -1,0 +1,266 @@
+{
+    "bundleId": 34,
+    "bundleName": "sample Bundle",
+    "isActive": true,
+    "appList": [
+        {
+            "appId": 70,
+            "appName": "abc",
+            "isActive": true,
+            "iconURL": "vfv",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 71,
+            "appName": "phaniapp",
+            "googlePlayAppId": "gp7",
+            "isActive": true,
+            "iconURL": "insertapp.sql",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 64,
+            "appName": "ostop1",
+            "googlePlayAppId": "7879",
+            "isActive": true,
+            "iconURL": "Lighthouse.jpg",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 65,
+            "appName": "xyzapp",
+            "googlePlayAppId": "gp2",
+            "isActive": false,
+            "iconURL": "tokka.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 66,
+            "appName": "",
+            "googlePlayAppId": "",
+            "isActive": false,
+            "iconURL": "",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 67,
+            "appName": "some app",
+            "googlePlayAppId": "gp7",
+            "isActive": true,
+            "iconURL": "tokka.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 77,
+            "appName": "somapp",
+            "googlePlayAppId": "sdf8",
+            "isActive": true,
+            "iconURL": "greyBackGround.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 79,
+            "appName": "checkapp",
+            "googlePlayAppId": "gcp9",
+            "isActive": true,
+            "iconURL": "ui-bg_flat_15_cd0a0a_40x100.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 72,
+            "appName": "dfdgd",
+            "googlePlayAppId": "ddgd",
+            "isActive": true,
+            "iconURL": "ui-bg_flat_15_cd0a0a_40x100.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 73,
+            "appName": "googleapp",
+            "googlePlayAppId": "gp3",
+            "isActive": true,
+            "iconURL": "EventsDB.sql",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 81,
+            "appName": "xyzapp",
+            "googlePlayAppId": "gp7",
+            "isActive": true,
+            "iconURL": "ui-bg_flat_0_aaaaaa_40x100.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 55,
+            "appName": "vcb bvc v ",
+            "googlePlayAppId": "GOOGLE_PLAY_APP_ID10",
+            "isActive": true,
+            "iconURL": "Koala.jpg",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 52,
+            "appName": "Ibm apptdh",
+            "googlePlayAppId": "GOOGLE_PLAY_APP_ID9",
+            "isActive": false,
+            "iconURL": "greyButtonBackground.png",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 57,
+            "appName": "Example",
+            "googlePlayAppId": "4242",
+            "isActive": true,
+            "iconURL": "Koala.jpg",
+            "bundleCategoryApp": []
+        },
+        {
+            "appId": 56,
+            "appName": "some abc company app and it is a big app in all",
+            "googlePlayAppId": "GOOGLE_PLAY_APP_ID10",
+            "isActive": false,
+            "iconURL": "www.abc.com",
+            "bundleCategoryApp": []
+        }
+    ],
+    "categoryList": [
+        {
+            "categoryId": 34,
+            "categoryName": "entertainment",
+            "sortOrder": 1,
+            "isActive": true,
+            "iconURL": "www.google.com",
+            "categoryAppList": [
+                {
+                    "appId": 57,
+                    "sortOrder": 1
+                },
+                {
+                    "appId": 70,
+                    "sortOrder": 1
+                }
+            ]
+        },
+        {
+            "categoryId": 35,
+            "categoryName": "sports",
+            "sortOrder": 1,
+            "isActive": true,
+            "iconURL": "www.twitter.com",
+            "categoryAppList": [
+                {
+                    "appId": 52,
+                    "sortOrder": 1
+                },
+                {
+                    "appId": 57,
+                    "sortOrder": 1
+                },
+                {
+                    "appId": 70,
+                    "sortOrder": 1
+                }
+            ]
+        },
+        {
+            "categoryId": 55,
+            "categoryName": "something",
+            "sortOrder": 1,
+            "isActive": true,
+            "iconURL": "greyBackGround.png",
+            "categoryAppList": [
+                {
+                    "appId": 57,
+                    "sortOrder": 1
+                },
+                {
+                    "appId": 72,
+                    "sortOrder": 1
+                }
+            ]
+        },
+        {
+            "categoryId": 36,
+            "categoryName": "socialnetworking",
+            "sortOrder": 2,
+            "isActive": true,
+            "iconURL": "www.fb.com",
+            "categoryAppList": [
+                {
+                    "appId": 57,
+                    "sortOrder": 1
+                },
+                {
+                    "appId": 70,
+                    "sortOrder": 1
+                },
+                {
+                    "appId": 72,
+                    "sortOrder": 1
+                }
+            ]
+        }
+    ],
+    "coreAppList": [
+        {
+            "appId": 52,
+            "sortOrder": 1
+        },
+        {
+            "appId": 65,
+            "sortOrder": 1
+        },
+        {
+            "appId": 55,
+            "sortOrder": 1
+        },
+        {
+            "appId": 67,
+            "sortOrder": 1
+        },
+        {
+            "appId": 64,
+            "sortOrder": 1
+        },
+        {
+            "appId": 56,
+            "sortOrder": 1
+        },
+        {
+            "appId": 57,
+            "sortOrder": 1
+        },
+        {
+            "appId": 66,
+            "sortOrder": 1
+        },
+        {
+            "appId": 70,
+            "sortOrder": 1
+        },
+        {
+            "appId": 73,
+            "sortOrder": 1
+        },
+        {
+            "appId": 72,
+            "sortOrder": 1
+        },
+        {
+            "appId": 79,
+            "sortOrder": 1
+        },
+        {
+            "appId": 71,
+            "sortOrder": 1
+        },
+        {
+            "appId": 77,
+            "sortOrder": 1
+        },
+        {
+            "appId": 81,
+            "sortOrder": 1
+        }
+    ]
+}
